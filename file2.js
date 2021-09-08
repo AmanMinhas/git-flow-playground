@@ -8,4 +8,4 @@ var line6 = "You learn something new everyday";
 console.log(line6);
 var line7 = "It is what it is";
 var line8 = "Forest Life";
-
+var line9 = "This is a hotfix by Alek";
